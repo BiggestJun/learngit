@@ -10,3 +10,4 @@ Switched to a new branch 'dev'.
 Switched  to a new branch 'master'.
 dev restart.
 dev.
+Second switched to a new branch 'dev'.
